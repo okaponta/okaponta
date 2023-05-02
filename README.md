@@ -1,16 +1,18 @@
-### Hi there 👋
+- 👋 I'm Kohei Okamoto, My profile page is [here](https://okaponta.github.io/profile/) (Japanese)
+- I mainly used(using) Java, Kotlin, React, Terraform for work.
 
-<!--
-**okaponta/okaponta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
 
-Here are some ideas to get you started:
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okaponta&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okaponta&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=okaponta&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Qiita Contributions
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/okaponta_/posts.svg)](http://qiita.com/okaponta_)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/okaponta_/contributions.svg)](http://qiita.com/okaponta_)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/okaponta_/followers.svg)](http://qiita.com/okaponta_)
+                
